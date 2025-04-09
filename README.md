@@ -12,11 +12,11 @@ In "tb_dds_chirp.vhd" Phase increment input changed in each clock to generate Ch
 [![delta phase increment](./imgs/generating_Chirp_Pulse_with_DDS.PNG)](https://github.com/sphrk/DDS/blob/main/)
 
 Chirp pulse test bench results:
--in frequency domain:
+- in frequency domain:
 
 [![freq domain chirp pulse](./imgs/chirp_freq_domain.jpg)](https://github.com/sphrk/DDS/blob/main/)
 
--in time-frequency domain:
+- in time-frequency domain:
 
 [![time freq domain chirp pulse](./imgs/chirp_time-freq_domain.jpg)](https://github.com/sphrk/DDS/blob/main/)
 
