@@ -14,5 +14,6 @@ In "tb_dds_chirp.vhd" Phase increment input changed in each clock to generate Ch
 Chirp pulse test bench results:
 
 in frequency domain:
-[![delta phase increment](./imgs/generating_Chirp_Pulse_with_DDS.PNG)](https://github.com/sphrk/DDS/blob/main/)
+
+[![freq domain chirp pulse](./imgs/generating_Chirp_Pulse_with_DDS.PNG)](https://github.com/sphrk/DDS/blob/main/)
 
