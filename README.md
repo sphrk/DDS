@@ -7,4 +7,4 @@ In test bench sine waves with different frequencies generated, output of DDS mod
 
 In "tb_dds_chirp.vhd" Phase increment input changed in each clock to generate Chirp Pulse with implemented DDS module.
 
-![delta phase increment] (./imgs/generating_Chirp_Pulse_with_DDS.PNG)
+[![delta phase increment] (./imgs/generating_Chirp_Pulse_with_DDS.PNG)](https://github.com/sphrk/DDS/blob/main/)
